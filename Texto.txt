@@ -3,3 +3,8 @@ segunda linha
 Nomes: Joana 
 Carlos 
 Maria
+animais:
+gato
+cachorro
+papagaio
+zebra
